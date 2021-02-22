@@ -61,7 +61,7 @@ export default {
     methods: {
         // 取得したAtCoderのレートをlineChart.jsに送るようにデータを編集
         fillData: function() {
-            fetch("http://localhost:3000/api/result")
+            fetch("https://enigmatic-crag-08653.herokuapp.com/api/result")
             .then(res => {
                 return res.json();
             })
