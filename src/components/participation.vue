@@ -11,9 +11,10 @@
             <p>全国高専プロコン大30回都城大会 競技部門</p>
             <p>PG BATTLE 2019, 2020</p>
             <p>Google Code Jam 2020 Round1</p>
-            <p>ICPC 2020 Asia Yokohama Regional</p>
+            <p>ICPC 2020 Asia Yokohama Regional qualifying round</p>
             <p>第3回システム創成コンテスト</p>
             <p>全国高等専門学校ラグビーフットボール大会<br>第50回ベスト8, 第51回ベスト8</p>
+            <p>AWS Robot Delivery Challenge 2021 カスタマイズ部門</p>
         </div>
     </div>
 </template>
