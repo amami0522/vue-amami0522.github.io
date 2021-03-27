@@ -184,6 +184,8 @@ export default {
     border-radius: 4px;
     overflow: hidden;
     max-width: 90%;
+    max-height: 70%;
+    overflow-y: auto;
 }
 .modal-content {
     padding: 10px 20px;
